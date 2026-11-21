@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: indonesian-restitution-roadmap-and-qsf-trust-execution
-  name: Indonesian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/indonesian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_id_001
+    name: Indonesia Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_002
+    name: Indonesia Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_003
+    name: Indonesia Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_004
+    name: Indonesia Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_005
+    name: Indonesia Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_006
+    name: Indonesia Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_007
+    name: Indonesia Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_008
+    name: Indonesia Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_009
+    name: Indonesia Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_010
+    name: Indonesia Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_011
+    name: Indonesia Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_012
+    name: Indonesia Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_013
+    name: Indonesia Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_014
+    name: Indonesia Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_015
+    name: Indonesia Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_016
+    name: Indonesia Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_017
+    name: Indonesia Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_018
+    name: Indonesia Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_019
+    name: Indonesia Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_020
+    name: Indonesia Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_021
+    name: Indonesia Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_022
+    name: Indonesia Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_023
+    name: Indonesia Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_024
+    name: Indonesia Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_025
+    name: Indonesia Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_026
+    name: Indonesia Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_027
+    name: Indonesia Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_028
+    name: Indonesia Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_029
+    name: Indonesia Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_030
+    name: Indonesia Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_031
+    name: Indonesia Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_032
+    name: Indonesia Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_033
+    name: Indonesia Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_034
+    name: Indonesia Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_035
+    name: Indonesia Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_036
+    name: Indonesia Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_037
+    name: Indonesia Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_038
+    name: Indonesia Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_039
+    name: Indonesia Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_040
+    name: Indonesia Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_041
+    name: Indonesia Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_042
+    name: Indonesia Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_043
+    name: Indonesia Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_044
+    name: Indonesia Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_045
+    name: Indonesia Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_046
+    name: Indonesia Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_047
+    name: Indonesia Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_048
+    name: Indonesia Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_049
+    name: Indonesia Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_050
+    name: Indonesia Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_051
+    name: Indonesia Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_052
+    name: Indonesia Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_053
+    name: Indonesia Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_054
+    name: Indonesia Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_055
+    name: Indonesia Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_056
+    name: Indonesia Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_057
+    name: Indonesia Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_058
+    name: Indonesia Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_059
+    name: Indonesia Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_060
+    name: Indonesia Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_061
+    name: Indonesia Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_062
+    name: Indonesia Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_063
+    name: Indonesia Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_064
+    name: Indonesia Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_065
+    name: Indonesia Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_066
+    name: Indonesia Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_067
+    name: Indonesia Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_068
+    name: Indonesia Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_069
+    name: Indonesia Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_070
+    name: Indonesia Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_071
+    name: Indonesia Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_072
+    name: Indonesia Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_073
+    name: Indonesia Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_074
+    name: Indonesia Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_075
+    name: Indonesia Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_076
+    name: Indonesia Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_077
+    name: Indonesia Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_078
+    name: Indonesia Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_079
+    name: Indonesia Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_080
+    name: Indonesia Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_081
+    name: Indonesia Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_082
+    name: Indonesia Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_083
+    name: Indonesia Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_084
+    name: Indonesia Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_085
+    name: Indonesia Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_086
+    name: Indonesia Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_087
+    name: Indonesia Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_088
+    name: Indonesia Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_089
+    name: Indonesia Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_090
+    name: Indonesia Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_091
+    name: Indonesia Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_092
+    name: Indonesia Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_093
+    name: Indonesia Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_094
+    name: Indonesia Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_095
+    name: Indonesia Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_096
+    name: Indonesia Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_097
+    name: Indonesia Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_098
+    name: Indonesia Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_099
+    name: Indonesia Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_100
+    name: Indonesia Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_101
+    name: Indonesia Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_102
+    name: Indonesia Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_103
+    name: Indonesia Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_104
+    name: Indonesia Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_105
+    name: Indonesia Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_106
+    name: Indonesia Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_107
+    name: Indonesia Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_108
+    name: Indonesia Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_109
+    name: Indonesia Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_110
+    name: Indonesia Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_111
+    name: Indonesia Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_112
+    name: Indonesia Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_113
+    name: Indonesia Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_114
+    name: Indonesia Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_115
+    name: Indonesia Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_116
+    name: Indonesia Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_117
+    name: Indonesia Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_118
+    name: Indonesia Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_119
+    name: Indonesia Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_120
+    name: Indonesia Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_121
+    name: Indonesia Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_122
+    name: Indonesia Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_123
+    name: Indonesia Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_124
+    name: Indonesia Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_125
+    name: Indonesia Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_126
+    name: Indonesia Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_127
+    name: Indonesia Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_128
+    name: Indonesia Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_129
+    name: Indonesia Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_130
+    name: Indonesia Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_131
+    name: Indonesia Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_132
+    name: Indonesia Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_133
+    name: Indonesia Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_134
+    name: Indonesia Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_135
+    name: Indonesia Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_136
+    name: Indonesia Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_137
+    name: Indonesia Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_138
+    name: Indonesia Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_139
+    name: Indonesia Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_140
+    name: Indonesia Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_141
+    name: Indonesia Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_142
+    name: Indonesia Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_143
+    name: Indonesia Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_144
+    name: Indonesia Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_145
+    name: Indonesia Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_146
+    name: Indonesia Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_147
+    name: Indonesia Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_148
+    name: Indonesia Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_149
+    name: Indonesia Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_150
+    name: Indonesia Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_151
+    name: Indonesia Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_152
+    name: Indonesia Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_153
+    name: Indonesia Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_154
+    name: Indonesia Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_155
+    name: Indonesia Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_156
+    name: Indonesia Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_157
+    name: Indonesia Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_158
+    name: Indonesia Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_159
+    name: Indonesia Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_160
+    name: Indonesia Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_161
+    name: Indonesia Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_162
+    name: Indonesia Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_163
+    name: Indonesia Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_164
+    name: Indonesia Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_165
+    name: Indonesia Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_166
+    name: Indonesia Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_167
+    name: Indonesia Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_168
+    name: Indonesia Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_169
+    name: Indonesia Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_170
+    name: Indonesia Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_171
+    name: Indonesia Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_172
+    name: Indonesia Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_173
+    name: Indonesia Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_174
+    name: Indonesia Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_175
+    name: Indonesia Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_176
+    name: Indonesia Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_177
+    name: Indonesia Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_178
+    name: Indonesia Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_179
+    name: Indonesia Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_180
+    name: Indonesia Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_181
+    name: Indonesia Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_182
+    name: Indonesia Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_183
+    name: Indonesia Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_184
+    name: Indonesia Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_185
+    name: Indonesia Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_186
+    name: Indonesia Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_187
+    name: Indonesia Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_188
+    name: Indonesia Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_189
+    name: Indonesia Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_190
+    name: Indonesia Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_191
+    name: Indonesia Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_192
+    name: Indonesia Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_193
+    name: Indonesia Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_194
+    name: Indonesia Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_195
+    name: Indonesia Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_196
+    name: Indonesia Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_197
+    name: Indonesia Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_198
+    name: Indonesia Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_199
+    name: Indonesia Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_200
+    name: Indonesia Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_201
+    name: Indonesia Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_202
+    name: Indonesia Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_203
+    name: Indonesia Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_204
+    name: Indonesia Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_205
+    name: Indonesia Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_206
+    name: Indonesia Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_207
+    name: Indonesia Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_208
+    name: Indonesia Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_209
+    name: Indonesia Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_210
+    name: Indonesia Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_211
+    name: Indonesia Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_212
+    name: Indonesia Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_213
+    name: Indonesia Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_214
+    name: Indonesia Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_215
+    name: Indonesia Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_216
+    name: Indonesia Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_217
+    name: Indonesia Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_218
+    name: Indonesia Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_219
+    name: Indonesia Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_220
+    name: Indonesia Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_221
+    name: Indonesia Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_222
+    name: Indonesia Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_223
+    name: Indonesia Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_224
+    name: Indonesia Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_225
+    name: Indonesia Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_226
+    name: Indonesia Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_227
+    name: Indonesia Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_228
+    name: Indonesia Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_229
+    name: Indonesia Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_230
+    name: Indonesia Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_231
+    name: Indonesia Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_232
+    name: Indonesia Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_233
+    name: Indonesia Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_234
+    name: Indonesia Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_235
+    name: Indonesia Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_236
+    name: Indonesia Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_237
+    name: Indonesia Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_238
+    name: Indonesia Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_239
+    name: Indonesia Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_240
+    name: Indonesia Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_241
+    name: Indonesia Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_242
+    name: Indonesia Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_243
+    name: Indonesia Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_244
+    name: Indonesia Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_245
+    name: Indonesia Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_246
+    name: Indonesia Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_247
+    name: Indonesia Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_248
+    name: Indonesia Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_249
+    name: Indonesia Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_250
+    name: Indonesia Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_251
+    name: Indonesia Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_id_252
+    name: Indonesia Skill 252
+    status: ACTIVE_SCAFFOLD

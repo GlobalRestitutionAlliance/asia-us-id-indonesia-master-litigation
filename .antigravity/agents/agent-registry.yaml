@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-indonesia-canal-and-intervention-historian
-  name: Indonesia Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-indonesia-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_id_001
+    name: Indonesia Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_002
+    name: Indonesia Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_003
+    name: Indonesia Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_004
+    name: Indonesia Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_005
+    name: Indonesia Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_006
+    name: Indonesia Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_007
+    name: Indonesia Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_008
+    name: Indonesia Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_009
+    name: Indonesia Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_010
+    name: Indonesia Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_011
+    name: Indonesia Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_012
+    name: Indonesia Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_013
+    name: Indonesia Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_014
+    name: Indonesia Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_015
+    name: Indonesia Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_016
+    name: Indonesia Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_017
+    name: Indonesia Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_018
+    name: Indonesia Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_019
+    name: Indonesia Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_020
+    name: Indonesia Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_021
+    name: Indonesia Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_022
+    name: Indonesia Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_023
+    name: Indonesia Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_024
+    name: Indonesia Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_025
+    name: Indonesia Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_026
+    name: Indonesia Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_027
+    name: Indonesia Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_028
+    name: Indonesia Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_029
+    name: Indonesia Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_030
+    name: Indonesia Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_031
+    name: Indonesia Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_032
+    name: Indonesia Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_033
+    name: Indonesia Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_034
+    name: Indonesia Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_035
+    name: Indonesia Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_036
+    name: Indonesia Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_037
+    name: Indonesia Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_038
+    name: Indonesia Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_039
+    name: Indonesia Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_040
+    name: Indonesia Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_041
+    name: Indonesia Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_042
+    name: Indonesia Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_043
+    name: Indonesia Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_044
+    name: Indonesia Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_045
+    name: Indonesia Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_046
+    name: Indonesia Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_047
+    name: Indonesia Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_048
+    name: Indonesia Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_049
+    name: Indonesia Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_050
+    name: Indonesia Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_051
+    name: Indonesia Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_052
+    name: Indonesia Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_053
+    name: Indonesia Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_054
+    name: Indonesia Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_055
+    name: Indonesia Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_056
+    name: Indonesia Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_057
+    name: Indonesia Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_058
+    name: Indonesia Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_059
+    name: Indonesia Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_060
+    name: Indonesia Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_061
+    name: Indonesia Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_062
+    name: Indonesia Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_063
+    name: Indonesia Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_064
+    name: Indonesia Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_065
+    name: Indonesia Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_066
+    name: Indonesia Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_067
+    name: Indonesia Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_068
+    name: Indonesia Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_069
+    name: Indonesia Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_070
+    name: Indonesia Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_071
+    name: Indonesia Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_072
+    name: Indonesia Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_073
+    name: Indonesia Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_074
+    name: Indonesia Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_075
+    name: Indonesia Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_076
+    name: Indonesia Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_077
+    name: Indonesia Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_078
+    name: Indonesia Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_079
+    name: Indonesia Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_080
+    name: Indonesia Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_081
+    name: Indonesia Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_082
+    name: Indonesia Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_083
+    name: Indonesia Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_084
+    name: Indonesia Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_085
+    name: Indonesia Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_086
+    name: Indonesia Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_087
+    name: Indonesia Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_088
+    name: Indonesia Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_089
+    name: Indonesia Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_090
+    name: Indonesia Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_091
+    name: Indonesia Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_092
+    name: Indonesia Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_093
+    name: Indonesia Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_094
+    name: Indonesia Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_095
+    name: Indonesia Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_096
+    name: Indonesia Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_097
+    name: Indonesia Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_098
+    name: Indonesia Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_099
+    name: Indonesia Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_100
+    name: Indonesia Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_101
+    name: Indonesia Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_102
+    name: Indonesia Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_103
+    name: Indonesia Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_104
+    name: Indonesia Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_105
+    name: Indonesia Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_106
+    name: Indonesia Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_107
+    name: Indonesia Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_108
+    name: Indonesia Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_109
+    name: Indonesia Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_110
+    name: Indonesia Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_111
+    name: Indonesia Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_112
+    name: Indonesia Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_113
+    name: Indonesia Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_114
+    name: Indonesia Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_115
+    name: Indonesia Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_116
+    name: Indonesia Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_117
+    name: Indonesia Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_118
+    name: Indonesia Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_119
+    name: Indonesia Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_120
+    name: Indonesia Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_121
+    name: Indonesia Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_122
+    name: Indonesia Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_123
+    name: Indonesia Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_124
+    name: Indonesia Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_125
+    name: Indonesia Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_126
+    name: Indonesia Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_127
+    name: Indonesia Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_128
+    name: Indonesia Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_129
+    name: Indonesia Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_130
+    name: Indonesia Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_131
+    name: Indonesia Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_132
+    name: Indonesia Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_133
+    name: Indonesia Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_134
+    name: Indonesia Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_135
+    name: Indonesia Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_136
+    name: Indonesia Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_137
+    name: Indonesia Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_138
+    name: Indonesia Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_139
+    name: Indonesia Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_140
+    name: Indonesia Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_141
+    name: Indonesia Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_142
+    name: Indonesia Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_143
+    name: Indonesia Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_144
+    name: Indonesia Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_145
+    name: Indonesia Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_146
+    name: Indonesia Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_147
+    name: Indonesia Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_148
+    name: Indonesia Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_149
+    name: Indonesia Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_150
+    name: Indonesia Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_151
+    name: Indonesia Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_152
+    name: Indonesia Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_153
+    name: Indonesia Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_154
+    name: Indonesia Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_155
+    name: Indonesia Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_156
+    name: Indonesia Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_157
+    name: Indonesia Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_158
+    name: Indonesia Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_159
+    name: Indonesia Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_160
+    name: Indonesia Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_161
+    name: Indonesia Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_162
+    name: Indonesia Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_163
+    name: Indonesia Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_164
+    name: Indonesia Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_165
+    name: Indonesia Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_166
+    name: Indonesia Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_167
+    name: Indonesia Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_168
+    name: Indonesia Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_169
+    name: Indonesia Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_id_170
+    name: Indonesia Agent 170
+    status: ACTIVE_SCAFFOLD
