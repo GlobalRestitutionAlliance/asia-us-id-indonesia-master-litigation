@@ -1,0 +1,15 @@
+{
+  "url": "https://www.hrw.org/asia/indonesia",
+  "final_url": "https://www.hrw.org/asia/indonesia",
+  "title": "HRW - Indonesia",
+  "fetched_at": "2026-11-23T14:20:51.035447Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 202271,
+  "sha256": "389e9d3f0dc04f1c11a6a2729ab25351c3de064f5c5936086ea784e100563632",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication."
+}

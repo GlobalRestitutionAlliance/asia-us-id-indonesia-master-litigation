@@ -1,0 +1,15 @@
+{
+  "url": "https://www.amnesty.org/en/location/asia-and-the-pacific/south-east-asia-and-the-pacific/indonesia/",
+  "final_url": "https://www.amnesty.org/en/location/asia-and-the-pacific/south-east-asia-and-the-pacific/indonesia/",
+  "title": "Amnesty - Indonesia",
+  "fetched_at": "2026-11-23T14:20:51.707098Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 105701,
+  "sha256": "8901e8ea29c9d1be8c77c0be09d1354586c1f3f2ec3edaba4e119564a6539c4a",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication."
+}
